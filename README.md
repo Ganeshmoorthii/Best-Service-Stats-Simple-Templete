@@ -1,4 +1,4 @@
-# Hotel Elite Website
+# Best-Service-Stats-Simple-Templete
 
 Welcome to the Hotel Elite website repository. This project is a responsive website for Hotel Elite, showcasing their services and statistics. The site is designed to provide an excellent user experience on both desktop and mobile devices.
 
@@ -10,12 +10,11 @@ Welcome to the Hotel Elite website repository. This project is a responsive webs
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Demo
 
-You can view a live demo of the website [here](#).
+You can view a live demo of the website [here](#https://hotellite.ccbp.tech/).
 
 ## Features
 
@@ -34,12 +33,12 @@ To set up the project locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/hotel-elite-website.git
+    git clone https://github.com/Ganeshmoorthii/Best-Service-Stats-Simple-Templete.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd hotel-elite-website
+    cd Best-Service-Stats-Simple-Templete
     ```
 
 3. **Open `index.html` in your browser** to view the website.
@@ -59,13 +58,11 @@ Contributions are welcome! If you would like to contribute to this project, plea
 5. **Push to the branch** (`git push origin feature-branch`)
 6. **Create a Pull Request**
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+For any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:mgmoorthi2004@gmail.com).
 
 ---
 
