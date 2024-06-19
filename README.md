@@ -62,7 +62,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 
 ## Contact
 
-For any questions or suggestions, feel free to contact me at [your-email@example.com](mailto:mgmoorthi2004@gmail.com).
+For any questions or suggestions, feel free to contact me at [mgmoorthi2004@gmail.com](mailto:mgmoorthi2004@gmail.com).
 
 ---
 
